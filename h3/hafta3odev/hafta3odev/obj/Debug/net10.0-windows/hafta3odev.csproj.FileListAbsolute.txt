@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\ödevler\h3\hafta3odev\hafta3odev\bin\Debug\net10.0-windows\hafta3odev.exe
+C:\Users\user\Desktop\ödevler\h3\hafta3odev\hafta3odev\bin\Debug\net10.0-windows\hafta3odev.deps.json
+C:\Users\user\Desktop\ödevler\h3\hafta3odev\hafta3odev\bin\Debug\net10.0-windows\hafta3odev.runtimeconfig.json
+C:\Users\user\Desktop\ödevler\h3\hafta3odev\hafta3odev\bin\Debug\net10.0-windows\hafta3odev.dll
+C:\Users\user\Desktop\ödevler\h3\hafta3odev\hafta3odev\bin\Debug\net10.0-windows\hafta3odev.pdb
+C:\Users\user\Desktop\ödevler\h3\hafta3odev\hafta3odev\obj\Debug\net10.0-windows\hafta3odev.Form1.resources
+C:\Users\user\Desktop\ödevler\h3\hafta3odev\hafta3odev\obj\Debug\net10.0-windows\hafta3odev.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ödevler\h3\hafta3odev\hafta3odev\obj\Debug\net10.0-windows\hafta3odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ödevler\h3\hafta3odev\hafta3odev\obj\Debug\net10.0-windows\hafta3odev.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ödevler\h3\hafta3odev\hafta3odev\obj\Debug\net10.0-windows\hafta3odev.AssemblyInfo.cs
+C:\Users\user\Desktop\ödevler\h3\hafta3odev\hafta3odev\obj\Debug\net10.0-windows\hafta3odev.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ödevler\h3\hafta3odev\hafta3odev\obj\Debug\net10.0-windows\hafta3odev.dll
+C:\Users\user\Desktop\ödevler\h3\hafta3odev\hafta3odev\obj\Debug\net10.0-windows\refint\hafta3odev.dll
+C:\Users\user\Desktop\ödevler\h3\hafta3odev\hafta3odev\obj\Debug\net10.0-windows\hafta3odev.pdb
+C:\Users\user\Desktop\ödevler\h3\hafta3odev\hafta3odev\obj\Debug\net10.0-windows\hafta3odev.genruntimeconfig.cache
+C:\Users\user\Desktop\ödevler\h3\hafta3odev\hafta3odev\obj\Debug\net10.0-windows\ref\hafta3odev.dll
+C:\Users\user\Desktop\ödevler\h3\hafta3odev\hafta3odev\obj\Debug\net10.0-windows\hafta3odev.csproj.Up2Date
